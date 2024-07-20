@@ -1,5 +1,7 @@
+import AnimalShow from "./AnimalShow";
+
 function App() {
-  return <div>Hello World !!!!!!!!!!!</div>;
+  return <AnimalShow />;
 }
 
 export default App();
