@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.js": "/react-animals/static/js/main.ba510f58.js",
+    "main.css": "/react-animals/static/css/main.42a1368f.css",
+    "main.js": "/react-animals/static/js/main.a347b4ca.js",
+    "static/media/dog.svg": "/react-animals/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
+    "static/media/cat.svg": "/react-animals/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
+    "static/media/gator.svg": "/react-animals/static/media/gator.9035accbd534fc488eb1fb531c9e767b.svg",
+    "static/media/bird.svg": "/react-animals/static/media/bird.224782d1579a91d795d0027d8f070b4b.svg",
+    "static/media/horse.svg": "/react-animals/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
+    "static/media/heart.svg": "/react-animals/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
     "index.html": "/react-animals/index.html",
-    "main.ba510f58.js.map": "/react-animals/static/js/main.ba510f58.js.map"
+    "main.42a1368f.css.map": "/react-animals/static/css/main.42a1368f.css.map",
+    "main.a347b4ca.js.map": "/react-animals/static/js/main.a347b4ca.js.map"
   },
   "entrypoints": [
-    "static/js/main.ba510f58.js"
+    "static/css/main.42a1368f.css",
+    "static/js/main.a347b4ca.js"
   ]
 }
