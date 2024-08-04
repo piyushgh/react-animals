@@ -82,3 +82,6 @@ and
 under "Scripts" add
 "predeploy":"npm run build",
 "deploy":"gh-pages -d build",
+
+run command
+npm run deploy
