@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-animals/static/css/main.42a1368f.css",
+    "main.css": "/react-animals/static/css/main.0356a081.css",
     "main.js": "/react-animals/static/js/main.a347b4ca.js",
     "static/media/dog.svg": "/react-animals/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
     "static/media/cat.svg": "/react-animals/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
@@ -9,11 +9,11 @@
     "static/media/horse.svg": "/react-animals/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
     "static/media/heart.svg": "/react-animals/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
     "index.html": "/react-animals/index.html",
-    "main.42a1368f.css.map": "/react-animals/static/css/main.42a1368f.css.map",
+    "main.0356a081.css.map": "/react-animals/static/css/main.0356a081.css.map",
     "main.a347b4ca.js.map": "/react-animals/static/js/main.a347b4ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.42a1368f.css",
+    "static/css/main.0356a081.css",
     "static/js/main.a347b4ca.js"
   ]
 }
